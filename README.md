@@ -16,7 +16,7 @@ Choose
 - Allow this device to wake the computer
 - Only allow a magic packet to wake the computer
 
-<img src="images/ethernet-setting.PNG" width="400">
+<img src="images/ethernet-settings.PNG" width="400">
 
 (NOTE: If you don't see the Power Management option go to Advanced > Wake on magic packet and choose value as Enabled. You may also have to Enable Wake on LAN from BIOS. For this refer to your Motherboard BIOS manual.)
 
@@ -30,7 +30,7 @@ Search for "Google Assistant" and choose that.
 
 Choose "Say as simple phrase" and then fill in the needed blanks to your preference.
 
-<img src="images/ifttt-setting.PNG" width="400">
+<img src="images/ifttt-settings.PNG" width="400">
 
 After that choose "Then That add".
 
@@ -38,7 +38,7 @@ Search for "Pushbullet" and choose that.
 
 Choose "Push a note" and fill in the blanks.
 
-<img src="images/ifttt-setting2.PNG" width="400">
+<img src="images/ifttt-settings2.PNG" width="400">
 
 (NOTE: Make sure the message is filled with something that is not used by another pushbullet used by you.)
 
@@ -50,17 +50,17 @@ Press the "+" to create a new flow.
 
 Click the empty box and press the menu button and then press the "New..." button in the bottom left corner.
 
-<img src="images/automagic-setting.jpg width="400"><img src="images/automagic-setting2.jpg width="400">
+<img src="images/automagic-settings.jpg width="400"><img src="images/automagic-settings2.jpg width="400">
 
 Choose "Plugin Event".
 
 Choose Plugin as "Received a Push"
 
-<img src="images/automagic-setting3.jpg width="400">
+<img src="images/automagic-settings3.jpg width="400">
 
 Enter what you put as a message to IFTTT for Pushbullet as containing text. 
 
-<img src="images/automagic-setting4.jpg width="400">
+<img src="images/automagic-settings4.jpg width="400">
 
 Then press "Save".
 
@@ -68,7 +68,7 @@ Then drag the "+" next to your created Plugin Event to add an action. Choose "Ac
 
 Press the three dots (...) located on the left of "MAC address" and enter your IP address.
 
-<img src="images/automagic-setting5.jpg width="400">
+<img src="images/automagic-settings5.jpg width="400">
 
 (NOTE: If you don't know your IP address, press WINKEY + R > Type "cmd" > press ENTER > Type "ipconfig" > press ENTER > IPv4 Address)
 
@@ -82,7 +82,7 @@ Then press "Save".
 
 Then enable the flow by pressing the switch in the top right corner. 
 
-<img src="images/automagic-setting6.jpg width="400">
+<img src="images/automagic-settings6.jpg width="400">
                                                    
 
                                                    
