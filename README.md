@@ -1,4 +1,4 @@
-# Turning computer on with Google Assistant
+# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/desktop.svg" card_color="#D80DE5" width="50" height="50" style="vertical-align:bottom"/>Turning computer on with Google Assistant
 
 I made this referring to [TopHATTwaffle's Youtube video](https://www.youtube.com/watch?v=iD6lCh7Uhq8).
 
