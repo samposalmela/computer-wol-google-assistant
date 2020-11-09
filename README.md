@@ -8,7 +8,7 @@ What you need:
 - [Pushbullet](https://play.google.com/store/apps/details?id=com.pushbullet.android&hl=fi&gl=US)
 - [Automagic](https://play.google.com/store/apps/details?id=ch.gridvision.ppam.androidautomagicworkarounds&hl=fi)
 
-## 1. Configure your computer to wake up with LAN
+## 1. Configure your computer to wake on LAN
 
 Go to Settings > Network & Internet > Change adapter options > Ethernet > Properties > Congigure > Power Management
 
