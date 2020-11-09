@@ -13,8 +13,8 @@ What you need:
 Go to Settings > Network & Internet > Change adapter options > Ethernet > Properties > Congigure > Power Management
 
 Choose
-> Allow this device to wake the computer
-> Only allow a magic packet to wake the computer
+- Allow this device to wake the computer
+- Only allow a magic packet to wake the computer
 
 (NOTE: If you don't see the Power Management option go to Advanced > Wake on magic packet and choose value as Enabled. You may also have to Enable Wake on LAN from BIOS. For this refer to your Motherboard BIOS manual.)
 
